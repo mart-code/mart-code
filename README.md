@@ -3,10 +3,10 @@
 I’m a **Frontend Web Developer** with over **5 years of experience**, passionate about building innovative and scalable web applications and systems for **enterprise** and **business solutions**.
 
 ## 🛠️ Tools and Technologies
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, TailwindCSS
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Python, TailwindCSS
 - **Backend:** Node.js, Express, PHP, SQL
 - **Database:** MongoDB, SQL
-- **Testing:** Jest
+- **Testing:** Jest, Cypress
 - **Others:** Git, REST APIs, Responsive Design
 
 ## 🌟 What I Do
