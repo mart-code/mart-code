@@ -1,11 +1,12 @@
 # Hi there! 👋 Welcome to my GitHub!
 
-I’m a **Frontend Web Developer** with over **5 years of experience**, passionate about building innovative and scalable web applications and systems for **enterprise** and **business solutions**.
+I’m a **Fullstack Developer** with over **5 years of experience**, passionate about building innovative and scalable web applications and systems for **enterprise** and **business solutions**.
 
 ## 🛠️ Tools and Technologies
 - **Frontend:** SCSS, JavaScript, TypeScript, React, Nextjs, TailwindCSS
 - **Backend:** Node.js, Express, PHP
 - **Database:** MongoDB, SQL, Prisma, Postgres
+- **API:** RestAPI, GraphQL
 - **Testing:** Jest, Cypress
 - **Others:** Git, REST APIs, Responsive Design
 
@@ -24,5 +25,3 @@ Feel free to check out my work or reach out:
 - [LinkedIn](https://www.linkedin.com/in/martcode/)  
 - Email: aamadewoyin@gmail.com
 
----
-_"Building technology that empowers businesses to grow!"_
