@@ -8,6 +8,7 @@ I’m a **Fullstack Developer** with over **5 years of experience**, passionate 
 - **Database:** MongoDB, SQL, Prisma, Postgres
 - **API:** RestAPI, GraphQL
 - **Testing:** Jest, Cypress
+- **CI/CD & DevOps:** AWS, Github Actions
 - **Others:** Git, REST APIs, Responsive Design
 
 ## 🌟 What I Do
